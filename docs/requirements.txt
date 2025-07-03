@@ -1,2 +1,1 @@
-docutils<0.18
-sphinxcontrib-jquery
+sphinx_rtd_theme
